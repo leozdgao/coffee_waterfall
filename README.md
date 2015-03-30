@@ -1,5 +1,7 @@
 # Coffee Waterfall
 
+[deprecated] I try another way to do a better responsive grid. Check this [new version](https://github.com/leozdgao/responsive_waterfall.git)
+
 Waterfall in coffee. Compatibility: IE9+
 
 ### Build
